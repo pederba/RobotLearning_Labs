@@ -1,0 +1,6 @@
+{
+    "build": { "dockerfile": "Dockerfile"},
+    "runArgs": ["--hostname", "rosdev"],
+    "name": "Ros Dev",
+    "extensions": ["ms-python.python", "ms-iot.vscode-ros"]
+}
