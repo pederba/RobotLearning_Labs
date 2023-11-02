@@ -1,0 +1,2 @@
+beginner_tutorials
+-DCATKIN_DEVEL_PREFIX=/workspaces/RobotLearning_Labs/devel -DCMAKE_INSTALL_PREFIX=/workspaces/RobotLearning_Labs/install -G Unix Makefiles
